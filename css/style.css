@@ -1,0 +1,115 @@
+.p1{
+    color: black;
+    font-style: normal ;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+}
+.div1{
+    border: solid #56728e;
+    width: 300px;
+    height: 500px;
+    float: left;
+    background-image: url(../imges/btroly\ bo.png)  ;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.div2{
+    border: solid #7a5334;
+    width: 300px;
+    height: 500px;
+    margin-left: 350px;
+    background-image: url(../imges/Screenshot\ 2024-02-17\ 043705.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    float: left;
+
+}
+.div3{
+    border: solid #F6E871    ;
+    width: 300px;
+    height: 500px;
+   
+    float: right;
+    background-image: url(../imges/Castomized.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+
+}
+.p2{
+    font-size: x-large;
+    ;text-align: center;
+
+}
+.p3{ 
+    text-align: center;
+    font-size: larger;
+    border: solid black 2px;
+    border-radius: 50%;
+}
+.p4{
+    text-align: center;
+    font-size: x-large;
+
+}
+.p5{
+    text-align: center;
+    font-size: x-large;
+
+}
+.divv{
+    border: #56728e solid 3px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+
+}
+.pp1{
+    text-align: center;
+    font-size: xx-large;
+
+}
+.discribtion{
+    text-align: center;
+    font-size: large;
+}
+.divvv{
+    border: #7a5334 solid 3px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+
+}
+.pp2{
+    text-align: center;
+    font-size: xx-large;
+
+}
+.discribe2{
+    text-align: center;
+    font-size: large;
+}
+.divvvv{
+    border: #F6E871 solid 3px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+}
+.discribe3{
+    text-align: center;
+    font-size: large;
+}
+.pp3{
+    text-align: center;
+    font-size: xx-large;
+}
+.divv :hover{
+    background-image: url(../imges/btroly\ back.png);
+}
+
